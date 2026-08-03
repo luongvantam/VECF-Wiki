@@ -66,4 +66,11 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 
 ## Tham gia Đóng góp (Contributing)
 VECF Wiki là một dự án mở và phát triển dựa vào cộng đồng. Nếu bạn muốn thêm bài viết mới, sửa lỗi chính tả, hoặc cải thiện nội dung, chúng tôi luôn sẵn sàng đón nhận!
-👉 Vui lòng xem [Hướng dẫn đóng góp (Contributing Guide)](CONTRIBUTING) để biết thêm chi tiết về cách đóng góp thông qua GitHub.
+-> Vui lòng xem [Hướng dẫn đóng góp (Contributing Guide)](CONTRIBUTING) để biết thêm chi tiết về cách đóng góp thông qua GitHub.
+
+## Những người đóng góp (Contributors)
+Cảm ơn tất cả những người đã dành thời gian đóng góp cho VECF Wiki!
+
+<a href="https://github.com/luongvantam/VECF-Wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=luongvantam/VECF-Wiki" alt="Contributors" />
+</a>
