@@ -51,8 +51,9 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 - [strcpy của fx580vnx](Decompilation/strcpy-580vnx)
 
 
-## Viết bài
+## Khác
 - [Hướng dẫn định dạng bài viết (Tutorial Formatting Guide)](huong-dan-dinh-dang)
+- [RAC Compiler API](VECF-API)
 
 ## Tài liệu tham khảo:
 
