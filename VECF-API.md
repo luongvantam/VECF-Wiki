@@ -55,7 +55,7 @@ VECF cung cấp Public API cho phép bạn tự động hoá việc biên dịch
 ### cURL (Terminal)
 
 ```bash
-curl -X POST https://your-domain.vercel.app/api/rac \
+curl -X POST https://casiovn.vercel.app/api/rac \
   -H "Content-Type: application/json" \
   -d '{"code": "print 123"}'
 ```
