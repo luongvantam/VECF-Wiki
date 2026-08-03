@@ -63,3 +63,7 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 - https://zhuanlan.zhihu.com/p/620584634
 - [nX-U8/100 Core Instruction Manual](nX-U8100_Core_Instruction_Manual.pdf)
 - [Thư viện ma trận của steveyboi](https://gamingwithevets.github.io/thu-vien-ma-tran/)
+
+## Tham gia Đóng góp (Contributing)
+VECF Wiki là một dự án mở và phát triển dựa vào cộng đồng. Nếu bạn muốn thêm bài viết mới, sửa lỗi chính tả, hoặc cải thiện nội dung, chúng tôi luôn sẵn sàng đón nhận!
+👉 Vui lòng xem [Hướng dẫn đóng góp (Contributing Guide)](CONTRIBUTING) để biết thêm chi tiết về cách đóng góp thông qua GitHub.
