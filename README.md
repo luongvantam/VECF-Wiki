@@ -54,6 +54,7 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 ## Khác
 - [Hướng dẫn định dạng bài viết (Tutorial Formatting Guide)](huong-dan-dinh-dang)
 - [RAC Compiler API](RAC-Compiler-API)
+- [ROP Transpiler API](ROP-Transpiler-API)
 
 ## Tài liệu tham khảo:
 
