@@ -43,6 +43,7 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 - [Spinning Cube 3 axis (Trình quay khối lập phương theo 3 trục)](ThuThuatFx580VNX/spinning-cube-3-axis)
 - [Neural network (AI phân biệt số 1 và số 0)](ThuThuatFx580VNX/neural-network-fx580vnx)
 - [RAM Editor MAX (933 Bytes)](ThuThuatFx580VNX/ram-editor-max)
+- [Text Editor with Font Custom](ThuThuatFx580VNX/text-editor-font-custom)
 
 
 ## Phân tích hàm hệ thống (Decompilation)
@@ -65,6 +66,7 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 - https://zhuanlan.zhihu.com/p/620584634
 - [nX-U8/100 Core Instruction Manual](nX-U8100_Core_Instruction_Manual.pdf)
 - [Thư viện ma trận của steveyboi](https://gamingwithevets.github.io/thu-vien-ma-tran/)
+- [Casio Calculator Hacking Wiki](http://casiocalc.wikidot.com/)
 
 ## Tham gia Đóng góp (Contributing)
 VECF Wiki là một dự án mở và phát triển dựa vào cộng đồng. Nếu bạn muốn thêm bài viết mới, sửa lỗi chính tả, hoặc cải thiện nội dung, chúng tôi luôn sẵn sàng đón nhận!
