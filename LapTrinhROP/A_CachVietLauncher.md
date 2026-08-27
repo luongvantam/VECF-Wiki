@@ -69,4 +69,4 @@ Chỉ với vỏn vẹn chừng đó lệnh, Launcher của bạn đã làm xu�
 
 ---
 
-[<- Quay lại](9_Loops.md)
+[<- Quay lại](9_Loops.md) | [Tiếp theo ->](A1_GiaiBaiToanCoBan.md)

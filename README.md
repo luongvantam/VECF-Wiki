@@ -32,6 +32,7 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 - [Chương 8: Rẽ nhánh có điều kiện (If/Else)](LapTrinhROP/8_ReNhanh)
 - [Chương 9: Vòng lặp (Loops)](LapTrinhROP/9_Loops)
 - [Chương 10: Cách viết Launcher](LapTrinhROP/A_CachVietLauncher)
+- [Chương 11: Giải bài toán lập trình cơ bản bằng ROP](LapTrinhROP/A1_GiaiBaiToanCoBan)
 - Đang tiếp tục cập nhập...
 
 
