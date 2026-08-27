@@ -20,15 +20,6 @@ Ví dụ:
 ```
 
 ---
-Ok được rồi đọc đề bài này tôi phải cảm thán rằng đây là 1 trong số các bài code thiếu nhi ai học lập trình cũng sẽ gặp 1 lần. Nhưng khi bắt đầu viết bằng ROP thì nó lại là 1 câu chuyện khác thú vị hơn nhiều.
-
-Xuyên suốt các bài toán sau tôi sẽ không dạy bạn phải nhảy vào code mà tôi sẽ dạy bạn lập kế hoạch trước. Giống như khi bạn viết 1 bài văn thứ quan trọng nhất không phải là bạn viết hay đến đâu mà ý tưởng của bạn là gì và bạn triển khai nó như thế nào. Tương tự ROP ASM cũng vậy điều quan trọng nhất không phải là bạn có tìm ra được gadget hay không mà quan trọng nhất là bạn có kế hoạch cụ thể và triển khai nó như thế nào.
-
-### Quay lại đề bài:
-
-Bước đầu tiên của mọi bài ROP là gì? Đó chính là xác định mục tiêu và phân tích cách thức thực thi code. 
-
-**Bước này hay được gọi là "Bước phân tích".**
 
 Đầu tiên, hãy cùng phân tích mục tiêu của đề bài. Đầu tiên chúng ta cần phải biết đầu vào của bài toán là gì và đầu ra của bài toán là gì. Cụ thể, bài toán này đầu vào là 1 số nguyên dương N, và đầu ra là in ra dòng "Odd" hoặc "Even" tùy thuộc vào N là số chẵn hay số lẻ.
 
@@ -83,6 +74,7 @@ Phần này do giá trị trong biến A đang ở kiểu dữ liệu `num` nên
 ```rsc
 lbl get_input
     xr0 = adr(lay_du), var_b        # tạm thời cho biến B lưu output
+    calc_func
 
 ...
 lbl lay_du
