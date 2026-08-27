@@ -1,7 +1,7 @@
 # VECF Wiki
 Chào mừng bạn đến với **VECF Wiki**.
 
-Đây là nơi tổng hợp các tài liệu, hướng dẫn và bài viết về **máy tính Casio ClassWiz**, **Return-Oriented Programming (ROP)**, **RAC Compiler**, kỹ thuật **Spell**, cũng như các nghiên cứu và phân tích liên quan đến firmware nX-U8/100.
+Đây là nơi tổng hợp các tài liệu, hướng dẫn và bài viết về **máy tính Casio ClassWiz**, **Return-Oriented Programming (ROP)**, **RAC Compiler**, cũng như các nghiên cứu và phân tích liên quan đến firmware nX-U8/100.
 
 Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đủ từ kiến thức cơ bản đến nâng cao, giúp người mới có thể bắt đầu học, đồng thời cũng là nơi tham khảo dành cho những người đã có kinh nghiệm.
 
