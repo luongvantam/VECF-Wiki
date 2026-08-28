@@ -36,7 +36,7 @@ Như vậy ta có thể viết ra 1 sơ đồ như sau:
        |                                             |
        v                                             v
 +------------------+                      +--------------------+
-|     Nếu không    |                      |     Output "Odd"   |
+|     Nếu không    |                      |     Output "Even"   |
 +------------------+                      +--------------------+
        |
        v
@@ -155,6 +155,7 @@ lbl init
 
 lbl get_input
     xr0 = adr(lay_du), var_b        # tạm thời cho biến B lưu output
+    calc_func
 
 lbl check_num
     xr0 = var_b, var_c      # lưu ý cần đảm bảo biến C = 0
