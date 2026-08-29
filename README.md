@@ -6,18 +6,19 @@ Chào mừng bạn đến với **VECF Wiki**.
 Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đủ từ kiến thức cơ bản đến nâng cao, giúp người mới có thể bắt đầu học, đồng thời cũng là nơi tham khảo dành cho những người đã có kinh nghiệm.
 
 
-## Cú pháp cơ bản của RAC Compiler
-- [0/ Cài đặt (Installation)](BasicSyntaxOfRAC/0_Installation)
-- [1/ In chữ Hello World](BasicSyntaxOfRAC/1_PrintHelloWorld)
-- [2.0/ Kiểu dữ liệu cơ bản (Data Types)](BasicSyntaxOfRAC/2p0_KieuDuLieu)
-- [2.1/ Khai Báo Biến Ảo (Virtual Variables)](BasicSyntaxOfRAC/2p1_KhaiBaoBienAo)
-- [2.2/ Khai Báo Thanh Ghi (Registers)](BasicSyntaxOfRAC/2p2_KhaiBaoThanhGhi)
-- [2.3/ Khai báo Gadget (Gadgets)](BasicSyntaxOfRAC/2p3_KhaiBaoGadget)
-- [3/ Nhãn & Lệnh Nhảy (Labels & Jumps)](BasicSyntaxOfRAC/3_Label)
-- [4/ Phép toán Thời gian Biên dịch (Compile-time Evaluation)](BasicSyntaxOfRAC/4_TinhToan)
-- [5/ Chỉ thị Vị trí Nạp (`org` & `backup`)](BasicSyntaxOfRAC/5_DatViTriProgram)
-- [6/ Phân vùng bộ nhớ (Sections)](BasicSyntaxOfRAC/6_Section)
-- [7/ Ghi chú và Ghép lệnh (Comments & Compound Statements)](BasicSyntaxOfRAC/7_Comment)
+## Cú pháp RAC Compiler
+- [0/ Cài đặt & Sử dụng (Installation & Usage)](SyntaxOfRAC/0_Installation)
+- [1/ In chữ Hello World (First Program)](SyntaxOfRAC/1_PrintHelloWorld)
+- [2/ Kiểu Dữ Liệu, Chuỗi Ký Tự & Mảng (Data Types, Strings & Arrays)](SyntaxOfRAC/2_DataTypesAndStrings)
+- [3/ Biến Ảo, Thanh Ghi & Bí Danh (Variables, Registers & Aliases)](SyntaxOfRAC/3_VariablesAndRegisters)
+- [4/ Khai Báo Gadget & Lệnh Gọi (Gadgets & Calls)](SyntaxOfRAC/4_GadgetsAndCalls)
+- [5/ Nhãn & Lệnh Nhảy (Labels & Jumps)](SyntaxOfRAC/5_LabelsAndJumps)
+- [6/ Phân Vùng Bộ Nhớ & Định Vị (`org`, `backup`, `@section` & `@set`)](SyntaxOfRAC/6_MemorySections)
+- [7/ Phép Toán & Biểu Thức Biên Dịch (Compile-time Expressions & Evaluation)](SyntaxOfRAC/7_CompileTimeEvaluation)
+- [8/ Macros Động & Hàm (Dynamic Macros & Functions)](SyntaxOfRAC/8_MacrosAndFunctions)
+- [9/ Vòng Lặp & Đệm Dữ Liệu (Loops & Memory Padding)](SyntaxOfRAC/9_LoopsAndPadding)
+- [10/ Ghi Chú, Ghép Lệnh & Xuống Dòng (Comments, Compound Statements & Line Continuation)](SyntaxOfRAC/10_CommentsAndFormatting)
+- [11/ Cấu Hình Build & Nhúng Python (`@build` & `@python`)](SyntaxOfRAC/11_BuildConfigAndPython)
 
 
 ## Lập trình ROP
