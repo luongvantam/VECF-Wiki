@@ -23,17 +23,16 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 
 ## Lập trình ROP
 - [Chương 0: Mở đầu](LapTrinhROP/0_MoDau)
-- [Chương 1: ROP là gì? (không kỹ thuật)](LapTrinhROP/1_ROPLaGi)
-- [Chương 2: Register (Thanh ghi)](LapTrinhROP/2_Registers)
-- [Chương 3: Stack (Ngăn xếp)](LapTrinhROP/3_Stack)
-- [Chương 4: Cơ chế ROP (Return-Oriented Programming)](LapTrinhROP/4_ROP)
-- [Chương 5: Viết chương trình đầu tiên](LapTrinhROP/5_VietChuongTrinhDonGian)
-- [Chương 6: Gọi hàm và Mid-Function Jump](LapTrinhROP/6_GoiHamVaMidFunctionJump)
-- [Chương 7: Nhảy (Jump) bằng thanh ghi SP](LapTrinhROP/7_JumpSP)
-- [Chương 8: Rẽ nhánh có điều kiện (If/Else)](LapTrinhROP/8_ReNhanh)
-- [Chương 9: Vòng lặp (Loops)](LapTrinhROP/9_Loops)
-- [Chương 10: Cách viết Launcher](LapTrinhROP/A_CachVietLauncher)
-- [Chương 11: Giải bài toán lập trình cơ bản bằng ROP](LapTrinhROP/A1_GiaiBaiToanCoBan)
+- [Chương 1: Register (Thanh ghi)](LapTrinhROP/1_Registers)
+- [Chương 2: Stack (Ngăn xếp)](LapTrinhROP/2_Stack)
+- [Chương 3: Cơ chế ROP (Return-Oriented Programming)](LapTrinhROP/3_ROP)
+- [Chương 4: Viết chương trình đầu tiên](LapTrinhROP/4_VietChuongTrinhDonGian)
+- [Chương 5: Gọi hàm và Mid-Function Jump](LapTrinhROP/5_GoiHamVaMidFunctionJump)
+- [Chương 6: Nhảy (Jump) bằng thanh ghi SP](LapTrinhROP/6_JumpSP)
+- [Chương 7: Rẽ nhánh có điều kiện (If/Else)](LapTrinhROP/7_ReNhanh)
+- [Chương 8: Vòng lặp (Loops)](LapTrinhROP/8_Loops)
+- [Chương 9: Cách viết Launcher](LapTrinhROP/9_CachVietLauncher)
+- [Chương 10: Giải bài toán lập trình cơ bản bằng ROP](LapTrinhROP/A_GiaiBaiToanCoBan)
 - Đang tiếp tục cập nhập...
 
 

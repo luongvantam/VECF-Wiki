@@ -369,4 +369,4 @@ Vì vậy, địa chỉ được đặt tại launcher phải lùi lại `2` byt
 
 ---
 
-[<- Quay lại](4_ROP.md) | [Tiếp theo ->](6_GoiHamVaMidFunctionJump.md)
+[<- Quay lại](3_ROP.md) | [Tiếp theo ->](5_GoiHamVaMidFunctionJump.md)

@@ -301,5 +301,29 @@ Qua chương này, chúng ta đã biết:
 * **Return-Oriented Programming (ROP)** là kỹ thuật xây dựng chương trình bằng cách sắp xếp các gadget trên Stack thay vì chèn thêm mã máy mới.
 
 ---
+# ROP (idk)
 
-[<- Quay lại](3_Stack.md) | [Tiếp theo ->](5_VietChuongTrinhDonGian.md)
+## ROP (Return-Oriented Programming)
+
+**Return-Oriented Programming (ROP)** là một kỹ thuật điều khiển luồng thực thi của chương trình bằng cách tận dụng những đoạn mã đã tồn tại sẵn trong firmware hoặc chương trình.
+
+Thông thường, khi muốn bổ sung một chức năng mới, lập trình viên sẽ viết thêm mã máy (Machine Code) để CPU thực thi. Tuy nhiên, trong nhiều trường hợp, việc chèn thêm mã máy là không thể hoặc bị giới hạn.
+
+Thay vì tạo ra mã máy mới, ROP sử dụng những đoạn mã đã có sẵn trong firmware, sau đó sắp xếp chúng theo một thứ tự nhất định để tạo thành chức năng mong muốn.
+
+Những đoạn mã ngắn này được gọi là **gadget**.
+
+Mỗi gadget thường chỉ thực hiện một hoặc một vài thao tác đơn giản, chẳng hạn như:
+
+* Nạp dữ liệu vào một thanh ghi.
+* Thực hiện phép toán.
+* Đọc hoặc ghi dữ liệu vào bộ nhớ.
+* Chuyển quyền điều khiển sang gadget tiếp theo.
+
+Bản thân một gadget thường không đủ để thực hiện một công việc phức tạp. Tuy nhiên, bằng cách kết hợp nhiều gadget theo đúng thứ tự, chúng ta có thể tạo thành một chương trình hoàn chỉnh.
+
+Chuỗi các gadget được sắp xếp để thực hiện một nhiệm vụ cụ thể được gọi là **ROP Chain (Return-Oriented Programming Chain)**.
+
+---
+
+[<- Quay lại](2_Stack.md) | [Tiếp theo ->](4_VietChuongTrinhDonGian.md)

@@ -100,4 +100,4 @@ Nếu bạn tò mò muốn biết tại sao hàm LEAVE lại ăn mất 12 byte c
 
 ---
 
-[<- Quay lại](8_ReNhanh.md) | [Tiếp theo ->](A_CachVietLauncher.md)
+[<- Quay lại](7_ReNhanh.md) | [Tiếp theo ->](9_CachVietLauncher.md)

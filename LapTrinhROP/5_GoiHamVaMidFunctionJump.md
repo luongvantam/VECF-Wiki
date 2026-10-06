@@ -235,4 +235,4 @@ Qua đó, nhờ kỹ thuật này, chúng ta có thể tận dụng những hàm
 
 ---
 
-[<- Quay lại](5_VietChuongTrinhDonGian.md) | [Tiếp theo ->](7_JumpSP.md)
+[<- Quay lại](4_VietChuongTrinhDonGian.md) | [Tiếp theo ->](6_JumpSP.md)

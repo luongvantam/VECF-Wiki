@@ -141,4 +141,4 @@ Còn bây giờ, ở chương tiếp theo, chúng ta sẽ kết hợp sự linh 
 
 ---
 
-[<- Quay lại](6_GoiHamVaMidFunctionJump.md) | [Tiếp theo ->](8_ReNhanh.md)
+[<- Quay lại](5_GoiHamVaMidFunctionJump.md) | [Tiếp theo ->](7_ReNhanh.md)

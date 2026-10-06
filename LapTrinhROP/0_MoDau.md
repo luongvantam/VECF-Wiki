@@ -24,4 +24,4 @@ Trong các chương tiếp theo, chúng ta sẽ đi sâu vào việc tìm hiểu
 
 ---
 
-[Tiếp theo ->](1_ROPLaGi.md)
+[Tiếp theo ->](1_Registers.md)

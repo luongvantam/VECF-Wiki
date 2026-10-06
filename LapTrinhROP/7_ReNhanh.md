@@ -140,4 +140,4 @@ Khi kết hợp được **Gọi hàm (Chương 6)**, **Vòng lặp (Chương 7)
 
 ---
 
-[<- Quay lại](7_JumpSP.md) | [Tiếp theo ->](9_Loops.md)
+[<- Quay lại](6_JumpSP.md) | [Tiếp theo ->](8_Loops.md)
