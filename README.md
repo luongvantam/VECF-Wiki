@@ -33,7 +33,6 @@ Mục tiêu của VECF Wiki là cung cấp một nguồn tài liệu đầy đ�
 - [Chương 8: Vòng lặp (Loops)](LapTrinhROP/8_Loops)
 - [Chương 9: Cách viết Launcher](LapTrinhROP/9_CachVietLauncher)
 - [Chương 10: Giải bài toán lập trình cơ bản bằng ROP](LapTrinhROP/A_GiaiBaiToanCoBan)
-- Đang tiếp tục cập nhập...
 
 
 ## Thủ thuật máy tính fx-580VNX
